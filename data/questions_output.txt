@@ -137391,4 +137391,3 @@ Answer: Our bodies require a range of nutrients including sugar, starch, fiber, 
 
 Question: What kinds of substances does a person's body require from food?
 Answer: A human body requires various nutrients such as sugar, starch, fiber, carbohydrates, fats, oils, proteins, vitamins, minerals, micronutrients and water. These are sourced through foods like 'gommen', oranges etc.
-
