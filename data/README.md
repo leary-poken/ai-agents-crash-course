@@ -17,4 +17,3 @@ This directory contains datasets used for nutrition-related AI applications.
 - **S3 URL**: https://nutrition-datasets.s3.amazonaws.com/calories.csv
 - **License**: CC0 Public Domain
 - **Description**: Comprehensive dataset containing calorie information for various food items per 100 grams, including food categories, calories, and kilojoules
-
